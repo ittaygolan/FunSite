@@ -1,0 +1,13 @@
+
+
+
+
+
+
+hr{
+  border-style: none;
+  border-top-style: dashed;
+  border-color: black;
+  border-width: 10px;
+  width: 5%
+}
